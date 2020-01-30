@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "push-notification-expo",
+    "description": "Examples to setup a project with react-navigation",
+    "slug": "push-notification-expo",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.sbtech.push_notification"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "push-notification",
+  "name": "push_notification"
+}
